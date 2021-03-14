@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/chuck-norris.iml" filepath="$PROJECT_DIR$/.idea/chuck-norris.iml" />
+      <module fileurl="file://$USER_HOME$/JacarandaProjects/scorecard-new/.idea/scorecard-new.iml" filepath="$USER_HOME$/JacarandaProjects/scorecard-new/.idea/scorecard-new.iml" />
     </modules>
   </component>
 </project>
